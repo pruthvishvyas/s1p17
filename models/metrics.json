@@ -1,0 +1,109 @@
+{
+  "classifier": {
+    "name": "Random Forest",
+    "cv_auc": 0.7474299038941021,
+    "test_auc": 0.744005994005994,
+    "pr_auc": 0.1302871978238362,
+    "ks": 0.40759240759240767,
+    "brier": 0.08098622290408952,
+    "threshold": 0.2610585948695778,
+    "recall": 0.6428571428571429,
+    "precision": 0.10588235294117647,
+    "base_rate": 0.04833333333333333,
+    "bank_pd_auc": 0.7708541458541459,
+    "top_decile_capture": 0.2857142857142857,
+    "all_models": {
+      "Logistic Regression": {
+        "cv_mean": 0.7363837700409508,
+        "cv_std": 0.0347304200014186,
+        "test_auc": 0.7714785214785216,
+        "test_acc": 0.77
+      },
+      "Random Forest": {
+        "cv_mean": 0.7474299038941021,
+        "cv_std": 0.0377522777802122,
+        "test_auc": 0.744005994005994,
+        "test_acc": 0.9
+      },
+      "Gradient Boosting": {
+        "cv_mean": 0.7367868557051545,
+        "cv_std": 0.06126244122615385,
+        "test_auc": 0.6627122877122877,
+        "test_acc": 0.9533333333333334
+      }
+    }
+  },
+  "top_features": [
+    {
+      "feature": "Monthly_Payment",
+      "importance": 0.02314
+    },
+    {
+      "feature": "Interest_Rate_pct",
+      "importance": 0.02006
+    },
+    {
+      "feature": "Channel",
+      "importance": 0.01224
+    },
+    {
+      "feature": "rate_spread_pct",
+      "importance": 0.01141
+    },
+    {
+      "feature": "Pre_Loan_DTI_pct",
+      "importance": 0.00891
+    },
+    {
+      "feature": "Cost_of_Funds_pct",
+      "importance": 0.00816
+    },
+    {
+      "feature": "high_dti_flag",
+      "importance": 0.00791
+    },
+    {
+      "feature": "Term_Months",
+      "importance": 0.00608
+    },
+    {
+      "feature": "Months_on_Book",
+      "importance": 0.00583
+    },
+    {
+      "feature": "Risk_Grade",
+      "importance": 0.005
+    },
+    {
+      "feature": "seasoning_pct",
+      "importance": 0.0045
+    },
+    {
+      "feature": "fee_pct",
+      "importance": 0.00425
+    },
+    {
+      "feature": "Origination_Fee",
+      "importance": 0.00408
+    },
+    {
+      "feature": "Age",
+      "importance": 0.00408
+    },
+    {
+      "feature": "Product",
+      "importance": 0.00241
+    }
+  ],
+  "profit_regressor": {
+    "mae": 2054.525311816687,
+    "r2": 0.11742948593947267,
+    "mae_naive": 2222.9719602962964
+  },
+  "forecast": {
+    "horizon_months": 3,
+    "months_history": 42,
+    "mape_loans": 0.133110320595367,
+    "mape_volume": 0.23002167306530397
+  }
+}

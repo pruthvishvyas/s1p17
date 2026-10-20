@@ -1,0 +1,66 @@
+{
+  "variable": "interest_rate_change_pp",
+  "baseline_annual_interest_income": 2108622.34,
+  "assumptions": {
+    "volume_elasticity_pct_per_pp": 3.0,
+    "note": "Applied across active book as an annualised proxy; adverse selection not modelled."
+  },
+  "scenarios": [
+    {
+      "rate_change_pp": -2,
+      "volume_factor": 1.06,
+      "annual_interest_income": 1897376.83,
+      "change_vs_baseline": -211245.52,
+      "change_pct": -10.02
+    },
+    {
+      "rate_change_pp": -1,
+      "volume_factor": 1.03,
+      "annual_interest_income": 2007779.25,
+      "change_vs_baseline": -100843.1,
+      "change_pct": -4.78
+    },
+    {
+      "rate_change_pp": -0.5,
+      "volume_factor": 1.015,
+      "annual_interest_income": 2059395.71,
+      "change_vs_baseline": -49226.63,
+      "change_pct": -2.33
+    },
+    {
+      "rate_change_pp": 0,
+      "volume_factor": 1.0,
+      "annual_interest_income": 2108622.34,
+      "change_vs_baseline": 0.0,
+      "change_pct": 0.0
+    },
+    {
+      "rate_change_pp": 0.5,
+      "volume_factor": 0.985,
+      "annual_interest_income": 2155459.14,
+      "change_vs_baseline": 46836.8,
+      "change_pct": 2.22
+    },
+    {
+      "rate_change_pp": 1,
+      "volume_factor": 0.97,
+      "annual_interest_income": 2199906.11,
+      "change_vs_baseline": 91283.77,
+      "change_pct": 4.33
+    },
+    {
+      "rate_change_pp": 1.5,
+      "volume_factor": 0.955,
+      "annual_interest_income": 2241963.25,
+      "change_vs_baseline": 133340.91,
+      "change_pct": 6.32
+    },
+    {
+      "rate_change_pp": 2,
+      "volume_factor": 0.94,
+      "annual_interest_income": 2281630.56,
+      "change_vs_baseline": 173008.21,
+      "change_pct": 8.2
+    }
+  ]
+}

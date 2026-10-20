@@ -1,0 +1,8 @@
+{
+  "project": "Consumer Lending Portfolio Intelligence",
+  "domain": "consumer_lending",
+  "client_id": "loan_portfolio",
+  "last_run": "2026-10-15T10:58:06.154364",
+  "rows": 1200,
+  "source": "csv"
+}

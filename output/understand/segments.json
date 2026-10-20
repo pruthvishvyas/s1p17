@@ -1,0 +1,37 @@
+{
+  "segments": [
+    {
+      "risk_segment": "High Risk",
+      "loans": 128,
+      "bad_rate": 0.109375,
+      "avg_score": 692.7578125,
+      "avg_rate": 14.809609375,
+      "avg_dti": 57.26875,
+      "outstanding": 4860321.72,
+      "net_profit": -64841.70000000001,
+      "share_of_loans": 0.10666666666666667
+    },
+    {
+      "risk_segment": "Low Risk",
+      "loans": 567,
+      "bad_rate": 0.010582010582010581,
+      "avg_score": 738.9559082892416,
+      "avg_rate": 10.611269841269841,
+      "avg_dti": 31.476719576719574,
+      "outstanding": 5892960.87,
+      "net_profit": 376912.82,
+      "share_of_loans": 0.4725
+    },
+    {
+      "risk_segment": "Medium Risk",
+      "loans": 505,
+      "bad_rate": 0.07524752475247524,
+      "avg_score": 652.3227722772277,
+      "avg_rate": 15.709069306930694,
+      "avg_dti": 42.16613861386139,
+      "outstanding": 5178927.65,
+      "net_profit": 424569.16,
+      "share_of_loans": 0.42083333333333334
+    }
+  ]
+}

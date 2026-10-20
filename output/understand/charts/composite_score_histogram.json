@@ -1,0 +1,90 @@
+{
+  "id": "composite_score_histogram",
+  "title": "Composite risk score distribution",
+  "type": "histogram",
+  "x_label": "Score",
+  "y_label": "Loans",
+  "outcome": "UNDERSTAND",
+  "data": [
+    {
+      "label": "9.9",
+      "value": 6.0
+    },
+    {
+      "label": "12.9",
+      "value": 22.0
+    },
+    {
+      "label": "16.0",
+      "value": 36.0
+    },
+    {
+      "label": "19.0",
+      "value": 52.0
+    },
+    {
+      "label": "22.1",
+      "value": 107.0
+    },
+    {
+      "label": "25.2",
+      "value": 129.0
+    },
+    {
+      "label": "28.2",
+      "value": 157.0
+    },
+    {
+      "label": "31.3",
+      "value": 153.0
+    },
+    {
+      "label": "34.3",
+      "value": 139.0
+    },
+    {
+      "label": "37.4",
+      "value": 132.0
+    },
+    {
+      "label": "40.4",
+      "value": 99.0
+    },
+    {
+      "label": "43.5",
+      "value": 57.0
+    },
+    {
+      "label": "46.5",
+      "value": 46.0
+    },
+    {
+      "label": "49.6",
+      "value": 29.0
+    },
+    {
+      "label": "52.6",
+      "value": 12.0
+    },
+    {
+      "label": "55.7",
+      "value": 8.0
+    },
+    {
+      "label": "58.7",
+      "value": 10.0
+    },
+    {
+      "label": "61.8",
+      "value": 1.0
+    },
+    {
+      "label": "64.9",
+      "value": 3.0
+    },
+    {
+      "label": "67.9",
+      "value": 2.0
+    }
+  ]
+}

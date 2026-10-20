@@ -1,0 +1,22 @@
+{
+  "id": "segment_sizes",
+  "title": "Loans by risk segment",
+  "type": "bar",
+  "x_label": "Segment",
+  "y_label": "Loans",
+  "outcome": "UNDERSTAND",
+  "data": [
+    {
+      "label": "Low Risk",
+      "value": 567.0
+    },
+    {
+      "label": "Medium Risk",
+      "value": 505.0
+    },
+    {
+      "label": "High Risk",
+      "value": 128.0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bad_rate_by_channel",
+  "title": "Bad rate by channel",
+  "type": "bar",
+  "x_label": "Channel",
+  "y_label": "Rate %",
+  "outcome": "DECIDE",
+  "data": [
+    {
+      "label": "Branch",
+      "value": 2.4324
+    },
+    {
+      "label": "Broker",
+      "value": 6.5502
+    },
+    {
+      "label": "Online",
+      "value": 5.3659
+    },
+    {
+      "label": "Partner",
+      "value": 6.2827
+    }
+  ]
+}

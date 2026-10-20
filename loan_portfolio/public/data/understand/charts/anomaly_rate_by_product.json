@@ -1,0 +1,1 @@
+{"id": "anomaly_rate_by_product", "title": "Anomaly rate by product", "type": "bar", "x_label": "Product", "y_label": "Anomaly %", "outcome": "UNDERSTAND", "data": [{"label": "Auto Loan", "value": 0.3077}, {"label": "Home Improvement", "value": 1.626}, {"label": "Personal Loan", "value": 1.3187}, {"label": "Small Business", "value": 28.1609}]}

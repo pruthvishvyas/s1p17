@@ -1,0 +1,95 @@
+{
+  "variable": "max_post_loan_dti_pct",
+  "baseline": {
+    "loans": 1200,
+    "share_of_loans_pct": 100.0,
+    "bad_rate_pct": 4.833,
+    "net_profit_total": 736640.28,
+    "net_profit_per_loan": 613.87,
+    "volume": 27727000.0,
+    "expected_loss": 1741589.57
+  },
+  "scenarios": [
+    {
+      "dti_cap": 30.0,
+      "loans": 310,
+      "share_of_loans_pct": 25.83,
+      "bad_rate_pct": 1.613,
+      "net_profit_total": 264007.83,
+      "net_profit_per_loan": 851.64,
+      "volume": 5130300.0,
+      "expected_loss": 83189.25
+    },
+    {
+      "dti_cap": 35.0,
+      "loans": 485,
+      "share_of_loans_pct": 40.42,
+      "bad_rate_pct": 2.474,
+      "net_profit_total": 387659.0,
+      "net_profit_per_loan": 799.3,
+      "volume": 8429000.0,
+      "expected_loss": 165451.49
+    },
+    {
+      "dti_cap": 38.0,
+      "loans": 622,
+      "share_of_loans_pct": 51.83,
+      "bad_rate_pct": 2.572,
+      "net_profit_total": 547085.73,
+      "net_profit_per_loan": 879.56,
+      "volume": 11137300.0,
+      "expected_loss": 244149.8
+    },
+    {
+      "dti_cap": 40.0,
+      "loans": 695,
+      "share_of_loans_pct": 57.92,
+      "bad_rate_pct": 2.446,
+      "net_profit_total": 623264.56,
+      "net_profit_per_loan": 896.78,
+      "volume": 12559100.0,
+      "expected_loss": 296185.73
+    },
+    {
+      "dti_cap": 43.0,
+      "loans": 803,
+      "share_of_loans_pct": 66.92,
+      "bad_rate_pct": 2.74,
+      "net_profit_total": 698436.17,
+      "net_profit_per_loan": 869.78,
+      "volume": 15155800.0,
+      "expected_loss": 380057.98
+    },
+    {
+      "dti_cap": 45.0,
+      "loans": 862,
+      "share_of_loans_pct": 71.83,
+      "bad_rate_pct": 3.132,
+      "net_profit_total": 735610.63,
+      "net_profit_per_loan": 853.38,
+      "volume": 16710400.0,
+      "expected_loss": 456693.59
+    },
+    {
+      "dti_cap": 50.0,
+      "loans": 982,
+      "share_of_loans_pct": 81.83,
+      "bad_rate_pct": 3.36,
+      "net_profit_total": 862596.93,
+      "net_profit_per_loan": 878.41,
+      "volume": 19600800.0,
+      "expected_loss": 624795.38
+    },
+    {
+      "dti_cap": 60.0,
+      "loans": 1134,
+      "share_of_loans_pct": 94.5,
+      "bad_rate_pct": 4.233,
+      "net_profit_total": 974238.06,
+      "net_profit_per_loan": 859.12,
+      "volume": 24542400.0,
+      "expected_loss": 1051146.22
+    }
+  ],
+  "note": "Historical back-test of declining loans above the post-loan DTI cap."
+}

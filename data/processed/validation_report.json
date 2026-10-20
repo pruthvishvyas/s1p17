@@ -1,0 +1,14 @@
+{
+  "rows": 1200,
+  "cols": 41,
+  "null_total": 0,
+  "nulls_by_column": {},
+  "missing_columns": [],
+  "unexpected_columns": [],
+  "target_positive_count": 58,
+  "target_positive_rate": 0.04833333333333333,
+  "schema_ok": true,
+  "min_rows_ok": true,
+  "min_positives_ok": true,
+  "issues": []
+}

@@ -1,0 +1,673 @@
+{
+  "generated_at": "2026-10-15T10:58:06.154364",
+  "pipeline_version": "1.0",
+  "source": {
+    "type": "csv",
+    "file": "data/processed/feature_store.csv"
+  },
+  "project": {
+    "name": "Consumer Lending Portfolio Intelligence",
+    "domain": "consumer_lending",
+    "client_id": "loan_portfolio",
+    "description": "Consumer lending portfolio: understand risk, decide on pricing/approval/collections, monitor early warnings."
+  },
+  "terminology": {
+    "revenue": "Interest & Fee Income",
+    "customer": "Borrower",
+    "product": "Loan Product",
+    "transaction": "Loan"
+  },
+  "outcomes": {
+    "understand": {
+      "kpis": "understand/kpis.json",
+      "charts": "understand/charts/_index.json",
+      "segments": "understand/segments.json",
+      "anomalies": "understand/anomalies.json"
+    },
+    "decide": {
+      "insights": "decide/insights.json",
+      "recommendations": "decide/recommendations.json",
+      "simulations": "decide/simulations/",
+      "goals": "decide/goals.json"
+    },
+    "monitor": {
+      "forecast": "monitor/forecast.json",
+      "goal_progress": "monitor/goal_progress.json",
+      "alerts": "monitor/alerts.json"
+    }
+  },
+  "meta": [
+    "meta/summary.json",
+    "meta/terminology.json",
+    "meta/run_log.json"
+  ],
+  "model": {
+    "type": "classifier",
+    "algorithm": "Random Forest",
+    "pkl_file": "models/best_classifier.pkl",
+    "feature_cols_file": "models/feature_cols.pkl",
+    "input_fields": [
+      {
+        "name": "Age",
+        "type": "float",
+        "range": [
+          21.0,
+          72.0
+        ]
+      },
+      {
+        "name": "Annual_Income",
+        "type": "float",
+        "range": [
+          11800.0,
+          196050.0
+        ]
+      },
+      {
+        "name": "Credit_Score",
+        "type": "float",
+        "range": [
+          540.0,
+          840.0
+        ]
+      },
+      {
+        "name": "Pre_Loan_DTI_pct",
+        "type": "float",
+        "range": [
+          3.0,
+          52.0
+        ]
+      },
+      {
+        "name": "Post_Loan_DTI_pct",
+        "type": "float",
+        "range": [
+          5.2,
+          92.2
+        ]
+      },
+      {
+        "name": "Loan_Amount",
+        "type": "float",
+        "range": [
+          3000.0,
+          76000.0
+        ]
+      },
+      {
+        "name": "Term_Months",
+        "type": "float",
+        "range": [
+          24.0,
+          120.0
+        ]
+      },
+      {
+        "name": "Interest_Rate_pct",
+        "type": "float",
+        "range": [
+          6.64,
+          23.81
+        ]
+      },
+      {
+        "name": "Monthly_Payment",
+        "type": "float",
+        "range": [
+          75.91,
+          6398.04
+        ]
+      },
+      {
+        "name": "Origination_Fee",
+        "type": "float",
+        "range": [
+          48.0,
+          3760.0
+        ]
+      },
+      {
+        "name": "Cost_of_Funds_pct",
+        "type": "float",
+        "range": [
+          4.02,
+          6.5
+        ]
+      },
+      {
+        "name": "Months_on_Book",
+        "type": "float",
+        "range": [
+          3.0,
+          44.0
+        ]
+      },
+      {
+        "name": "loan_to_income",
+        "type": "float",
+        "range": [
+          0.0392,
+          1.2015
+        ]
+      },
+      {
+        "name": "payment_to_income_pct",
+        "type": "float",
+        "range": [
+          1.1397,
+          53.3249
+        ]
+      },
+      {
+        "name": "dti_increase_pts",
+        "type": "float",
+        "range": [
+          1.1,
+          53.3
+        ]
+      },
+      {
+        "name": "rate_spread_pct",
+        "type": "float",
+        "range": [
+          1.96,
+          18.27
+        ]
+      },
+      {
+        "name": "fee_pct",
+        "type": "float",
+        "range": [
+          0.6,
+          4.9474
+        ]
+      },
+      {
+        "name": "seasoning_pct",
+        "type": "float",
+        "range": [
+          0.0357,
+          1.5
+        ]
+      },
+      {
+        "name": "high_dti_flag",
+        "type": "float",
+        "range": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "name": "subprime_flag",
+        "type": "float",
+        "range": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "name": "long_term_flag",
+        "type": "float",
+        "range": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "name": "composite_risk_score",
+        "type": "float",
+        "range": [
+          9.8895,
+          70.9589
+        ]
+      },
+      {
+        "name": "credit_score_band_code",
+        "type": "float",
+        "range": [
+          0.0,
+          4.0
+        ]
+      },
+      {
+        "name": "Product",
+        "type": "str",
+        "range": [
+          "Auto Loan",
+          "Home Improvement",
+          "Personal Loan",
+          "Small Business"
+        ]
+      },
+      {
+        "name": "Channel",
+        "type": "str",
+        "range": [
+          "Branch",
+          "Broker",
+          "Online",
+          "Partner"
+        ]
+      },
+      {
+        "name": "Region",
+        "type": "str",
+        "range": [
+          "Midwest",
+          "Northeast",
+          "South",
+          "West"
+        ]
+      },
+      {
+        "name": "Employment_Type",
+        "type": "str",
+        "range": [
+          "Business Owner",
+          "Contract",
+          "Retired",
+          "Salaried",
+          "Self-employed"
+        ]
+      },
+      {
+        "name": "Home_Ownership",
+        "type": "str",
+        "range": [
+          "Mortgage",
+          "Own",
+          "Rent"
+        ]
+      },
+      {
+        "name": "Risk_Grade",
+        "type": "str",
+        "range": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    ],
+    "output_label": "probability of reaching 90+ DPD",
+    "threshold": 0.2610585948695778,
+    "horizon": 3,
+    "models_ready": {
+      "best_classifier.pkl": true,
+      "forecast_model.pkl": true,
+      "profit_regressor.pkl": true,
+      "isolation_forest.pkl": true
+    }
+  },
+  "forecaster": {
+    "model_file": "models/best_classifier.pkl",
+    "feature_cols_file": "models/feature_cols.pkl",
+    "input_schema": [
+      {
+        "name": "Age",
+        "type": "float",
+        "range": [
+          21.0,
+          72.0
+        ]
+      },
+      {
+        "name": "Annual_Income",
+        "type": "float",
+        "range": [
+          11800.0,
+          196050.0
+        ]
+      },
+      {
+        "name": "Credit_Score",
+        "type": "float",
+        "range": [
+          540.0,
+          840.0
+        ]
+      },
+      {
+        "name": "Pre_Loan_DTI_pct",
+        "type": "float",
+        "range": [
+          3.0,
+          52.0
+        ]
+      },
+      {
+        "name": "Post_Loan_DTI_pct",
+        "type": "float",
+        "range": [
+          5.2,
+          92.2
+        ]
+      },
+      {
+        "name": "Loan_Amount",
+        "type": "float",
+        "range": [
+          3000.0,
+          76000.0
+        ]
+      },
+      {
+        "name": "Term_Months",
+        "type": "float",
+        "range": [
+          24.0,
+          120.0
+        ]
+      },
+      {
+        "name": "Interest_Rate_pct",
+        "type": "float",
+        "range": [
+          6.64,
+          23.81
+        ]
+      },
+      {
+        "name": "Monthly_Payment",
+        "type": "float",
+        "range": [
+          75.91,
+          6398.04
+        ]
+      },
+      {
+        "name": "Origination_Fee",
+        "type": "float",
+        "range": [
+          48.0,
+          3760.0
+        ]
+      },
+      {
+        "name": "Cost_of_Funds_pct",
+        "type": "float",
+        "range": [
+          4.02,
+          6.5
+        ]
+      },
+      {
+        "name": "Months_on_Book",
+        "type": "float",
+        "range": [
+          3.0,
+          44.0
+        ]
+      },
+      {
+        "name": "loan_to_income",
+        "type": "float",
+        "range": [
+          0.0392,
+          1.2015
+        ]
+      },
+      {
+        "name": "payment_to_income_pct",
+        "type": "float",
+        "range": [
+          1.1397,
+          53.3249
+        ]
+      },
+      {
+        "name": "dti_increase_pts",
+        "type": "float",
+        "range": [
+          1.1,
+          53.3
+        ]
+      },
+      {
+        "name": "rate_spread_pct",
+        "type": "float",
+        "range": [
+          1.96,
+          18.27
+        ]
+      },
+      {
+        "name": "fee_pct",
+        "type": "float",
+        "range": [
+          0.6,
+          4.9474
+        ]
+      },
+      {
+        "name": "seasoning_pct",
+        "type": "float",
+        "range": [
+          0.0357,
+          1.5
+        ]
+      },
+      {
+        "name": "high_dti_flag",
+        "type": "float",
+        "range": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "name": "subprime_flag",
+        "type": "float",
+        "range": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "name": "long_term_flag",
+        "type": "float",
+        "range": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "name": "composite_risk_score",
+        "type": "float",
+        "range": [
+          9.8895,
+          70.9589
+        ]
+      },
+      {
+        "name": "credit_score_band_code",
+        "type": "float",
+        "range": [
+          0.0,
+          4.0
+        ]
+      },
+      {
+        "name": "Product",
+        "type": "str",
+        "range": [
+          "Auto Loan",
+          "Home Improvement",
+          "Personal Loan",
+          "Small Business"
+        ]
+      },
+      {
+        "name": "Channel",
+        "type": "str",
+        "range": [
+          "Branch",
+          "Broker",
+          "Online",
+          "Partner"
+        ]
+      },
+      {
+        "name": "Region",
+        "type": "str",
+        "range": [
+          "Midwest",
+          "Northeast",
+          "South",
+          "West"
+        ]
+      },
+      {
+        "name": "Employment_Type",
+        "type": "str",
+        "range": [
+          "Business Owner",
+          "Contract",
+          "Retired",
+          "Salaried",
+          "Self-employed"
+        ]
+      },
+      {
+        "name": "Home_Ownership",
+        "type": "str",
+        "range": [
+          "Mortgage",
+          "Own",
+          "Rent"
+        ]
+      },
+      {
+        "name": "Risk_Grade",
+        "type": "str",
+        "range": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    ],
+    "output_schema": {
+      "prediction": "int",
+      "probability": "float",
+      "risk_level": "str"
+    }
+  },
+  "frontend": {
+    "framework": "vanilla HTML/JS",
+    "deploy_target": "cloudflare_pages"
+  },
+  "saas_ready": true,
+  "files": [
+    {
+      "filename": "understand/kpis.json",
+      "bytes": 820
+    },
+    {
+      "filename": "understand/charts/target_distribution.json",
+      "bytes": 309
+    },
+    {
+      "filename": "understand/charts/bad_rate_by_grade.json",
+      "bytes": 463
+    },
+    {
+      "filename": "understand/charts/composite_score_histogram.json",
+      "bytes": 1317
+    },
+    {
+      "filename": "understand/charts/priority_breakdown.json",
+      "bytes": 420
+    },
+    {
+      "filename": "understand/charts/anomaly_rate_by_product.json",
+      "bytes": 453
+    },
+    {
+      "filename": "understand/charts/top_feature_importance.json",
+      "bytes": 1164
+    },
+    {
+      "filename": "understand/charts/segment_sizes.json",
+      "bytes": 356
+    },
+    {
+      "filename": "understand/charts/bad_rate_by_score_band.json",
+      "bytes": 509
+    },
+    {
+      "filename": "understand/charts/bad_rate_by_channel.json",
+      "bytes": 411
+    },
+    {
+      "filename": "understand/charts/vintage_bad_rate.json",
+      "bytes": 2396
+    },
+    {
+      "filename": "understand/charts/_index.json",
+      "bytes": 1306
+    },
+    {
+      "filename": "understand/segments.json",
+      "bytes": 970
+    },
+    {
+      "filename": "understand/anomalies.json",
+      "bytes": 17597
+    },
+    {
+      "filename": "decide/insights.json",
+      "bytes": 3816
+    },
+    {
+      "filename": "decide/recommendations.json",
+      "bytes": 1540
+    },
+    {
+      "filename": "decide/simulations/dti_cap_impact.json",
+      "bytes": 2405
+    },
+    {
+      "filename": "decide/simulations/rate_change_impact.json",
+      "bytes": 1696
+    },
+    {
+      "filename": "decide/simulations/score_cutoff_impact.json",
+      "bytes": 2931
+    },
+    {
+      "filename": "decide/goals.json",
+      "bytes": 1090
+    },
+    {
+      "filename": "monitor/forecast.json",
+      "bytes": 16228
+    },
+    {
+      "filename": "monitor/goal_progress.json",
+      "bytes": 965
+    },
+    {
+      "filename": "monitor/alerts.json",
+      "bytes": 352
+    },
+    {
+      "filename": "meta/terminology.json",
+      "bytes": 120
+    },
+    {
+      "filename": "meta/summary.json",
+      "bytes": 202
+    },
+    {
+      "filename": "meta/run_log.json",
+      "bytes": 93
+    }
+  ]
+}

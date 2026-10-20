@@ -1,0 +1,36 @@
+SLIDE 1 -- LENDING PORTFOLIO INTELLIGENCE
+1200 loans analysed. 4.8% have already reached 90+ days past due.
+SLIDE 2 -- THE BUSINESS PROBLEM
+Delinquency erodes margin silently. We need to know where risk sits, what to change, and what to watch.
+SLIDE 3 -- DATASET OVERVIEW
+1200 loans, 72 columns, outstanding principal 15932210.
+Products: Auto Loan, Home Improvement, Personal Loan, Small Business
+SLIDE 4 -- DELINQUENCY PREVALENCE
+Ever 90+ DPD rate 4.8%; NPL balance 0.68% of book.
+SLIDE 5 -- CORE FINDING
+Subprime loans (score < 620) go bad at 7.8% vs 4.5% for the rest.
+SLIDE 6 -- FEATURE ENGINEERING
+Affordability (loan-to-income, payment-to-income, DTI increase), pricing (rate spread, risk-adjusted spread), flags (high DTI, subprime), composite risk score.
+SLIDE 7 -- CLASSIFICATION MODEL
+Random Forest: hold-out AUC 0.744 vs bank Modelled PD 0.771; KS 0.41; top 10% of loans capture 29% of bad loans.
+SLIDE 8 -- RISK SEGMENTATION
+High Risk: 128 loans, bad rate 10.9%
+Low Risk: 567 loans, bad rate 1.1%
+Medium Risk: 505 loans, bad rate 7.5%
+SLIDE 9 -- PROFIT REGRESSION AND FORECAST
+Net profit regressor MAE 2054.53, R2 0.117. Origination forecast backtest MAPE (loans): 13.3%
+SLIDE 10 -- BUSINESS LOGIC
+Seven action rules: NPL workout, collect now, early warning, stage mismatch, unprofitable, pricing gap, high DTI. P1 urgent loans: 157.
+SLIDE 11 -- KEY INSIGHTS
+[HIGH] Origination Quality: Loans pushing post-loan DTI above 43% are riskier
+[HIGH] Collections: 110 current loans carry top-decile model risk and are not yet delinquent
+[HIGH] Provisioning: 49 Stage 1 loans look like Stage 2 risk to the model
+SLIDE 12 -- RECOMMENDATIONS
+- Enforce a hard DTI cap in underwriting or require compensating factors
+- Contact this early-warning list this week (reminder, restructure, payment holiday)
+- Review IFRS9 staging and provisioning for these loans
+SLIDE 13 -- EXECUTIVE HOOK
+1200 loans, 4.8% ever 90+ DPD, NPL 0.68% of book, net profit to date 736640, 60 anomalous loans, 157 urgent actions.
+SLIDE 14 -- TECHNICAL ARCHITECTURE
+Pipeline: ingest, clean, features, EDA, classifier, segmentation, anomalies, forecast, business logic, simulations, goals and alerts, insights, export.
+Models ready: best_classifier.pkl, isolation_forest.pkl, profit_regressor.pkl, forecast_model.pkl

@@ -1,0 +1,1 @@
+{"generated_at": "2026-10-15T10:57:39.469252", "alerts": [{"severity": "MEDIUM", "metric": "high_dti_share_recent_pct", "actual": 31.25, "threshold": 25, "message": "Recent originations breach the DTI cap too often", "action": "Enforce hard DTI cap in underwriting", "outcome": "MONITOR"}]}

@@ -1,0 +1,30 @@
+{
+  "id": "bad_rate_by_grade",
+  "title": "Ever 90+ DPD rate by risk grade",
+  "type": "bar",
+  "x_label": "Risk grade",
+  "y_label": "Rate %",
+  "outcome": "UNDERSTAND",
+  "data": [
+    {
+      "label": "A",
+      "value": 0.8197
+    },
+    {
+      "label": "B",
+      "value": 1.5385
+    },
+    {
+      "label": "C",
+      "value": 6.6116
+    },
+    {
+      "label": "D",
+      "value": 8.9623
+    },
+    {
+      "label": "E",
+      "value": 14.2857
+    }
+  ]
+}

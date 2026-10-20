@@ -1,0 +1,1 @@
+{"id": "target_distribution", "title": "Loans by default outcome", "type": "bar", "x_label": "Outcome", "y_label": "Loans", "outcome": "UNDERSTAND", "data": [{"label": "Never 90+ DPD", "value": 1142.0}, {"label": "Ever 90+ DPD", "value": 58.0}]}

@@ -1,0 +1,61 @@
+{
+  "alert_rules": [
+    {
+      "rule": "NPL_WORKOUT",
+      "action": "Move to workout/legal recovery and confirm Stage 3 provisioning",
+      "loans": 53,
+      "outstanding": 108734.49
+    },
+    {
+      "rule": "COLLECT_NOW",
+      "action": "Add to this week collections call list",
+      "loans": 55,
+      "outstanding": 1201640.8
+    },
+    {
+      "rule": "EARLY_WARNING",
+      "action": "Proactive outreach before the loan rolls to 30+ DPD",
+      "loans": 110,
+      "outstanding": 2063592.44
+    },
+    {
+      "rule": "STAGE_MISMATCH",
+      "action": "Review IFRS9 staging",
+      "loans": 49,
+      "outstanding": 1188858.88
+    },
+    {
+      "rule": "UNPROFITABLE",
+      "action": "Review account: cut servicing cost or offer refinance",
+      "loans": 102,
+      "outstanding": 808602.46
+    },
+    {
+      "rule": "PRICING_GAP",
+      "action": "Reprice or tighten approval",
+      "loans": 120,
+      "outstanding": 2503520.24
+    },
+    {
+      "rule": "HIGH_DTI",
+      "action": "Cap post-loan DTI at policy limit",
+      "loans": 397,
+      "outstanding": 6936409.85
+    }
+  ],
+  "segment_actions": [
+    {
+      "Product": "Personal Loan",
+      "Risk_Grade": "C",
+      "loans": 138,
+      "bad_rate": 0.0869565217391304,
+      "avg_rate": 14.27289855072464,
+      "outstanding": 894590.16,
+      "net_profit": 7216.559999999999,
+      "expected_loss": 115687.16,
+      "avg_risk_adj_spread": 3.879804347826087,
+      "profit_per_loan": 52.293913043478256,
+      "segment_action": "Tighten approval"
+    }
+  ]
+}

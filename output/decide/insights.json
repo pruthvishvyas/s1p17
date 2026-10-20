@@ -1,0 +1,90 @@
+[
+  {
+    "severity": "HIGH",
+    "category": "Origination Quality",
+    "finding": "Loans pushing post-loan DTI above 43% are riskier",
+    "evidence": "33.1% of loans breach the cap; their bad rate is 9.1% vs 2.7% (3.3x)",
+    "action": "Enforce a hard DTI cap in underwriting or require compensating factors",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "HIGH",
+    "category": "Collections",
+    "finding": "110 current loans carry top-decile model risk and are not yet delinquent",
+    "evidence": "Outstanding at risk 2063592 (13.0% of book); model flags them before they miss payments",
+    "action": "Contact this early-warning list this week (reminder, restructure, payment holiday)",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "HIGH",
+    "category": "Provisioning",
+    "finding": "49 Stage 1 loans look like Stage 2 risk to the model",
+    "evidence": "Stage 1 loans in the riskiest 5% of model scores hold 1188859 outstanding",
+    "action": "Review IFRS9 staging and provisioning for these loans",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "HIGH",
+    "category": "Channel Performance",
+    "finding": "Channel quality gap: Branch is best, Broker is worst",
+    "evidence": "Bad rate 2.4% vs 6.6%; profit per loan 1173 vs 194",
+    "action": "Shift acquisition spend toward the better channel or tighten criteria on the worse one",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "HIGH",
+    "category": "Underwriting Exceptions",
+    "finding": "60 loans have unusual risk/price combinations",
+    "evidence": "Anomalous loans bad rate 20.0% vs 4.8% overall",
+    "action": "Audit the approval trail of the highest anomaly scores",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "MEDIUM",
+    "category": "Credit Risk",
+    "finding": "Worst-performing product/grade segment: Personal Loan grade C",
+    "evidence": "Bad rate 8.7% vs 4.8% portfolio (1.8x) across 138 loans and 894590 outstanding",
+    "action": "Tighten cutoffs or raise price for this segment this month",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "MEDIUM",
+    "category": "Credit Risk",
+    "finding": "Subprime borrowers (score < 620) default far more often than prime",
+    "evidence": "Bad rate 7.8% vs 4.5% (1.7x); subprime is 9.6% of loans",
+    "action": "Use the score-cutoff simulator to test raising the minimum score",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "LOW",
+    "category": "Portfolio Health",
+    "finding": "Share of the book that is non-performing (90+ DPD or Stage 3)",
+    "evidence": "NPL balance 0.68% of outstanding principal; 4.83% of all loans have ever reached 90+ DPD",
+    "action": "Set a recovery target for Stage 3 loans and review underwriting if NPL exceeds 5%",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "LOW",
+    "category": "Pricing & Profitability",
+    "finding": "0 product/grade segments have negative net profit",
+    "evidence": "Total net profit 736640; loss-making segments lose 0 combined",
+    "action": "Reprice or stop lending in the loss-making segments (see Product Profitability sheet)",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "LOW",
+    "category": "Model Performance",
+    "finding": "Our default model (Random Forest) vs the bank Modelled PD",
+    "evidence": "Hold-out AUC 0.744 vs Modelled_PD 0.771; top 10% of loans capture 29% of bad loans; KS 0.41",
+    "action": "Adopt the new model for early warning; Modelled PD is competitive",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "LOW",
+    "category": "Vintage Trend",
+    "finding": "Last 6 months of originations vs earlier vintages",
+    "evidence": "Bad rate so far 1.0% vs 5.6% (recent loans have had less time to default)",
+    "action": "Track the vintage curve monthly; act early if recent vintages already exceed history",
+    "outcome": "DECIDE"
+  }
+]

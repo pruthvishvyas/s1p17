@@ -1,0 +1,1 @@
+{"id": "priority_breakdown", "title": "Loans by action priority", "type": "bar", "x_label": "Priority", "y_label": "Loans", "outcome": "DECIDE", "data": [{"label": "P1_URGENT", "value": 157.0}, {"label": "P2_HIGH", "value": 84.0}, {"label": "P3_MEDIUM", "value": 251.0}, {"label": "P4_ROUTINE", "value": 708.0}]}

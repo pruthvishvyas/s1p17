@@ -1,0 +1,6 @@
+name = "loan_portfolio"
+main = "worker/index.js"
+compatibility_date = "2026-10-16"
+
+[site]
+bucket = "./dist"

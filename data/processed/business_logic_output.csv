@@ -1,0 +1,493 @@
+Loan_ID,Product,Risk_Grade,Days_Past_Due,IFRS9_Stage,Outstanding_Principal,pred_prob,loan_alerts,priority,recommendations
+LN-301146,Small Business,E,0,1,116763.9,0.5764389723922941,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-301180,Small Business,C,30,2,110213.55,0.31836438525649463,COLLECT_NOW|HIGH_DTI,P1_URGENT,Add to this week collections call list; Cap post-loan DTI at policy limit for new lending
+LN-301167,Small Business,C,30,2,105884.73,0.25616443345033435,COLLECT_NOW|PRICING_GAP|HIGH_DTI,P1_URGENT,Add to this week collections call list; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300194,Small Business,C,0,1,84365.05,0.516644543790783,EARLY_WARNING|STAGE_MISMATCH|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Cap post-loan DTI at policy limit for new lending"
+LN-300371,Small Business,D,0,1,77230.21,0.5542719096313524,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300541,Small Business,E,0,1,77108.25,0.7804530013752362,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300548,Small Business,D,60,2,71860.08,0.6174645718161603,COLLECT_NOW|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-301068,Small Business,B,30,2,69110.06,0.2883361479699223,COLLECT_NOW|HIGH_DTI,P1_URGENT,Add to this week collections call list; Cap post-loan DTI at policy limit for new lending
+LN-300600,Small Business,E,0,1,68050.48,0.5878862737161312,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300743,Small Business,C,0,1,67246.16,0.6781134036890243,EARLY_WARNING|STAGE_MISMATCH|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Cap post-loan DTI at policy limit for new lending"
+LN-300468,Small Business,B,0,1,65786.76,0.5477934974695842,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-301059,Small Business,C,90,3,65695.96,0.1996507077058337,NPL_WORKOUT|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Cap post-loan DTI at policy limit for new lending
+LN-300633,Small Business,B,30,2,58862.09,0.13432900974133263,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300536,Small Business,A,30,2,54671.32,0.043580140023388156,COLLECT_NOW|UNPROFITABLE|HIGH_DTI,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300659,Small Business,C,30,2,49088.76,0.1678389970075082,COLLECT_NOW,P1_URGENT,Add to this week collections call list
+LN-300496,Small Business,D,0,1,45716.08,0.7047512173388197,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300951,Small Business,C,90,3,43038.53,0.31421412504550605,NPL_WORKOUT|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300777,Small Business,E,0,1,42122.52,0.5172463878918571,EARLY_WARNING|STAGE_MISMATCH|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300759,Small Business,C,0,1,40314.12,0.6468868200694725,EARLY_WARNING|STAGE_MISMATCH|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Cap post-loan DTI at policy limit for new lending"
+LN-300361,Small Business,E,0,1,39573.61,0.5233747742390803,EARLY_WARNING|STAGE_MISMATCH|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300156,Small Business,D,0,1,39510.76,0.5221840578519422,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300623,Small Business,C,0,1,39427.59,0.6805539591979914,EARLY_WARNING|STAGE_MISMATCH|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300495,Small Business,C,0,1,35868.4,0.7428296398697599,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300707,Small Business,C,30,2,34891.66,0.4119016470970223,COLLECT_NOW|HIGH_DTI,P1_URGENT,Add to this week collections call list; Cap post-loan DTI at policy limit for new lending
+LN-300718,Small Business,E,0,1,34490.65,0.5508476411017845,EARLY_WARNING|STAGE_MISMATCH|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300478,Small Business,B,60,2,32483.02,0.11903163521663103,COLLECT_NOW|UNPROFITABLE|HIGH_DTI,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300693,Small Business,C,0,1,30757.75,0.6364894946807538,EARLY_WARNING|STAGE_MISMATCH|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Cap post-loan DTI at policy limit for new lending"
+LN-300155,Home Improvement,C,30,2,27741.68,0.5143652770494289,COLLECT_NOW|HIGH_DTI,P1_URGENT,Add to this week collections call list; Cap post-loan DTI at policy limit for new lending
+LN-301104,Home Improvement,D,30,2,27466.77,0.0927695031236093,COLLECT_NOW|HIGH_DTI,P1_URGENT,Add to this week collections call list; Cap post-loan DTI at policy limit for new lending
+LN-300803,Small Business,D,0,1,26932.67,0.6017587670186485,EARLY_WARNING|STAGE_MISMATCH|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300189,Small Business,C,0,1,26391.86,0.5581743025009953,EARLY_WARNING|STAGE_MISMATCH|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Cap post-loan DTI at policy limit for new lending"
+LN-300673,Small Business,E,0,1,25600.37,0.5785795003702705,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-301056,Home Improvement,C,30,2,25394.55,0.08908239162937022,COLLECT_NOW,P1_URGENT,Add to this week collections call list
+LN-300733,Auto Loan,E,60,2,25123.47,0.4109069456735099,COLLECT_NOW|HIGH_DTI,P1_URGENT,Add to this week collections call list; Cap post-loan DTI at policy limit for new lending
+LN-300090,Auto Loan,C,30,2,24252.32,0.24354658450116806,COLLECT_NOW|HIGH_DTI,P1_URGENT,Add to this week collections call list; Cap post-loan DTI at policy limit for new lending
+LN-301143,Auto Loan,B,30,2,23224.73,0.013416473008718755,COLLECT_NOW,P1_URGENT,Add to this week collections call list
+LN-300926,Home Improvement,C,30,2,22877.3,0.13315411505873492,COLLECT_NOW|HIGH_DTI,P1_URGENT,Add to this week collections call list; Cap post-loan DTI at policy limit for new lending
+LN-300026,Small Business,D,0,1,22519.72,0.5760976543456224,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-301011,Personal Loan,A,60,2,21896.83,0.05843217325668528,COLLECT_NOW,P1_URGENT,Add to this week collections call list
+LN-300574,Small Business,D,0,1,21881.25,0.6726569087228846,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-301136,Home Improvement,A,30,2,21482.33,0.022109823106660566,COLLECT_NOW|HIGH_DTI,P1_URGENT,Add to this week collections call list; Cap post-loan DTI at policy limit for new lending
+LN-300257,Auto Loan,C,30,2,21305.37,0.23257703984320052,COLLECT_NOW,P1_URGENT,Add to this week collections call list
+LN-301140,Personal Loan,C,30,2,20624.21,0.03519712010926877,COLLECT_NOW,P1_URGENT,Add to this week collections call list
+LN-300561,Auto Loan,A,30,2,18469.79,0.020825561032391506,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300684,Personal Loan,C,30,2,17775.36,0.4821532782841366,COLLECT_NOW|UNPROFITABLE|HIGH_DTI,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300015,Small Business,D,0,1,17275.24,0.5910782001330832,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300360,Small Business,D,0,1,17202.31,0.5843255453334415,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300413,Personal Loan,C,0,1,17053.34,0.5132135646200812,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-301087,Home Improvement,C,30,2,16720.29,0.07563490258805394,COLLECT_NOW,P1_URGENT,Add to this week collections call list
+LN-300539,Personal Loan,A,30,2,16507.96,0.016020187347101107,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300446,Small Business,C,0,1,16251.22,0.6434119901448906,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300175,Auto Loan,B,30,2,16074.73,0.1707565528048492,COLLECT_NOW,P1_URGENT,Add to this week collections call list
+LN-300288,Small Business,C,0,1,15848.28,0.7229848754333917,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300390,Small Business,C,0,1,15693.6,0.5135567194725384,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300869,Personal Loan,C,60,2,14727.09,0.316775015054964,COLLECT_NOW|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300221,Home Improvement,B,30,2,14652.69,0.03746656562282339,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300584,Home Improvement,C,30,2,14119.51,0.07070883918999606,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300650,Home Improvement,D,0,1,14114.55,0.5108583776570316,EARLY_WARNING|STAGE_MISMATCH,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm"
+LN-300331,Auto Loan,C,60,2,13809.13,0.1267735103853439,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300965,Personal Loan,E,60,2,13511.01,0.22019711386250804,COLLECT_NOW|PRICING_GAP,P1_URGENT,Add to this week collections call list; Reprice or tighten approval for this product/grade
+LN-300938,Auto Loan,C,30,2,13335.81,0.033257078084692034,COLLECT_NOW,P1_URGENT,Add to this week collections call list
+LN-300888,Personal Loan,E,30,2,13208.23,0.22316315075769272,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300986,Auto Loan,C,30,2,13160.63,0.17099341284674796,COLLECT_NOW|HIGH_DTI,P1_URGENT,Add to this week collections call list; Cap post-loan DTI at policy limit for new lending
+LN-300483,Auto Loan,D,60,2,12585.35,0.24346105429746812,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300769,Personal Loan,C,30,2,11020.9,0.3477632509343466,COLLECT_NOW|UNPROFITABLE|HIGH_DTI,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-301061,Home Improvement,A,30,2,10469.24,0.10891155929416542,COLLECT_NOW,P1_URGENT,Add to this week collections call list
+LN-300581,Personal Loan,A,30,2,10406.57,0.008802558391275063,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300464,Auto Loan,A,60,2,10391.63,0.04864782568404849,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300723,Personal Loan,C,30,2,9602.83,0.2653080484586985,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-301120,Personal Loan,C,30,2,9027.11,0.12124872834361661,COLLECT_NOW,P1_URGENT,Add to this week collections call list
+LN-301009,Personal Loan,E,60,2,8701.9,0.25946177702739137,COLLECT_NOW|PRICING_GAP|HIGH_DTI,P1_URGENT,Add to this week collections call list; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300734,Personal Loan,B,30,2,8464.31,0.03237397037266925,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-301071,Personal Loan,C,30,2,8276.28,0.14616590456733725,COLLECT_NOW|HIGH_DTI,P1_URGENT,Add to this week collections call list; Cap post-loan DTI at policy limit for new lending
+LN-300240,Personal Loan,C,0,1,7997.04,0.5526942647390567,EARLY_WARNING|STAGE_MISMATCH|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Cap post-loan DTI at policy limit for new lending"
+LN-300949,Personal Loan,C,30,2,7926.95,0.11611726246815517,COLLECT_NOW,P1_URGENT,Add to this week collections call list
+LN-300618,Personal Loan,E,0,1,7518.16,0.5577433766032865,EARLY_WARNING|STAGE_MISMATCH|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Cap post-loan DTI at policy limit for new lending"
+LN-300955,Personal Loan,D,0,1,7436.73,0.5987424389063671,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300822,Personal Loan,C,60,2,7288.86,0.11899629101175159,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300414,Auto Loan,A,30,2,7146.08,0.13748419170868234,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300701,Personal Loan,D,0,1,6888.42,0.5119914714168815,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300443,Personal Loan,A,30,2,6807.86,0.16591860588596544,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300167,Personal Loan,D,0,1,5341.38,0.6262602535540658,EARLY_WARNING|STAGE_MISMATCH|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Cap post-loan DTI at policy limit for new lending"
+LN-300121,Home Improvement,A,30,2,4995.41,0.07202437262213951,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300306,Home Improvement,E,0,1,4897.98,0.5201697674844409,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300115,Auto Loan,D,30,2,4285.62,0.2922434679057989,COLLECT_NOW|HIGH_DTI,P1_URGENT,Add to this week collections call list; Cap post-loan DTI at policy limit for new lending
+LN-300451,Home Improvement,D,0,1,4253.73,0.5219647619991734,EARLY_WARNING|STAGE_MISMATCH,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm"
+LN-300272,Auto Loan,D,30,2,4152.0,0.16082678386560273,COLLECT_NOW|HIGH_DTI,P1_URGENT,Add to this week collections call list; Cap post-loan DTI at policy limit for new lending
+LN-300692,Personal Loan,C,30,2,3961.52,0.19376696742295854,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300726,Personal Loan,B,30,2,3954.37,0.17381949869794872,COLLECT_NOW|UNPROFITABLE,P1_URGENT,Add to this week collections call list; Review account: cut servicing cost or offer refinance
+LN-300208,Personal Loan,A,30,2,3627.68,0.039176616260531386,COLLECT_NOW|HIGH_DTI,P1_URGENT,Add to this week collections call list; Cap post-loan DTI at policy limit for new lending
+LN-300592,Personal Loan,D,0,1,3428.74,0.5776009136030211,EARLY_WARNING|STAGE_MISMATCH|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Cap post-loan DTI at policy limit for new lending"
+LN-300351,Home Improvement,C,30,2,2754.98,0.33310362881029415,COLLECT_NOW|HIGH_DTI,P1_URGENT,Add to this week collections call list; Cap post-loan DTI at policy limit for new lending
+LN-300024,Personal Loan,B,30,2,1266.29,0.15047370486402703,COLLECT_NOW,P1_URGENT,Add to this week collections call list
+LN-300002,Auto Loan,D,870,3,0.0,0.2817794071206966,NPL_WORKOUT|UNPROFITABLE|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300013,Personal Loan,A,1080,3,0.0,0.10540334174520431,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300017,Small Business,D,1020,3,0.0,0.633466615588844,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300023,Personal Loan,E,0,1,0.0,0.5305620992495986,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300049,Personal Loan,C,1050,3,0.0,0.39200131314278314,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300051,Small Business,C,570,3,0.0,0.37278618355770876,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300057,Auto Loan,B,1080,3,0.0,0.021090611224702214,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300065,Personal Loan,C,0,1,0.0,0.5616612709227845,EARLY_WARNING|STAGE_MISMATCH|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Cap post-loan DTI at policy limit for new lending"
+LN-300092,Small Business,D,0,1,0.0,0.514631217851324,EARLY_WARNING|STAGE_MISMATCH|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Cap post-loan DTI at policy limit for new lending"
+LN-300109,Personal Loan,C,750,3,0.0,0.48763968081261155,NPL_WORKOUT|UNPROFITABLE|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300116,Small Business,E,0,1,0.0,0.6257360067382477,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300129,Personal Loan,D,0,1,0.0,0.6877951351934362,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300130,Small Business,D,0,1,0.0,0.7633021918535678,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300131,Personal Loan,D,0,1,0.0,0.7215832799646965,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300137,Personal Loan,C,480,3,0.0,0.5067047076866803,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300145,Home Improvement,D,570,3,0.0,0.5070312686120483,NPL_WORKOUT|UNPROFITABLE|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300147,Personal Loan,E,1020,3,0.0,0.4496445348095655,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300154,Small Business,D,720,3,0.0,0.6126566581346237,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300164,Personal Loan,E,840,3,0.0,0.654498608094048,NPL_WORKOUT|UNPROFITABLE|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300188,Auto Loan,D,870,3,0.0,0.2498151047634711,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300190,Personal Loan,C,720,3,0.0,0.16333371108371247,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300192,Small Business,C,0,1,0.0,0.648953894969987,EARLY_WARNING|STAGE_MISMATCH|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Cap post-loan DTI at policy limit for new lending"
+LN-300207,Small Business,C,210,3,0.0,0.6395491571315871,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300213,Personal Loan,D,810,3,0.0,0.468300813330802,NPL_WORKOUT|UNPROFITABLE|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300224,Auto Loan,D,600,3,0.0,0.2565246328086266,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300228,Home Improvement,A,930,3,0.0,0.09228236518863199,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300230,Personal Loan,E,360,3,0.0,0.627125061574106,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300231,Personal Loan,D,0,1,0.0,0.5527587255583074,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300258,Personal Loan,D,0,1,0.0,0.800989406553273,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300275,Small Business,E,750,3,0.0,0.5717535729823235,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300281,Home Improvement,E,630,3,0.0,0.3661207001705859,NPL_WORKOUT|UNPROFITABLE|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300283,Personal Loan,C,840,3,0.0,0.19778953490029766,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300313,Auto Loan,C,660,3,0.0,0.21644233391959644,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300327,Personal Loan,D,210,3,0.0,0.4098499182551149,NPL_WORKOUT|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300346,Personal Loan,D,720,3,0.0,0.2956680177704331,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade
+LN-300348,Personal Loan,D,750,3,0.0,0.331993964643337,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300372,Auto Loan,C,540,3,0.0,0.12424419422590861,NPL_WORKOUT|UNPROFITABLE|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300378,Personal Loan,D,480,3,0.0,0.266724351392892,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300400,Personal Loan,D,0,1,0.0,0.6217009977787252,EARLY_WARNING|STAGE_MISMATCH|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Cap post-loan DTI at policy limit for new lending"
+LN-300419,Personal Loan,C,570,3,0.0,0.43529567503357985,NPL_WORKOUT|UNPROFITABLE|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300421,Personal Loan,B,300,3,0.0,0.07005875283012358,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300449,Auto Loan,C,270,3,0.0,0.13349385375967335,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300452,Personal Loan,C,480,3,0.0,0.27984967996096155,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300460,Home Improvement,E,540,3,0.0,0.4286588548046198,NPL_WORKOUT|UNPROFITABLE|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300465,Small Business,C,390,3,0.0,0.4695018658265119,NPL_WORKOUT|UNPROFITABLE|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300488,Personal Loan,C,0,1,0.0,0.6073999959437799,EARLY_WARNING|STAGE_MISMATCH|PRICING_GAP|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300506,Personal Loan,C,0,1,0.0,0.517552052385028,EARLY_WARNING|STAGE_MISMATCH|HIGH_DTI,P1_URGENT,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Review IFRS9 staging - model risk is far above the Stage 1 norm; Cap post-loan DTI at policy limit for new lending"
+LN-300515,Small Business,D,450,3,0.0,0.68455886393189,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300538,Personal Loan,B,480,3,0.0,0.12014882885079917,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300549,Personal Loan,C,330,3,0.0,0.3400545068370755,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300557,Small Business,C,360,3,0.0,0.6292088166615541,NPL_WORKOUT|UNPROFITABLE|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300591,Small Business,D,360,3,0.0,0.517700040018073,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300655,Home Improvement,D,270,3,0.0,0.29910250065723154,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300736,Personal Loan,C,210,3,0.0,0.33714730107796775,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300747,Auto Loan,C,150,3,0.0,0.04674965732494795,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300774,Small Business,C,150,3,0.0,0.1411955846246999,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300778,Personal Loan,C,150,3,0.0,0.15399944604954163,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300787,Small Business,D,150,3,0.0,0.5074211697490282,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300827,Home Improvement,D,150,3,0.0,0.34520655435297937,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300831,Home Improvement,D,210,3,0.0,0.18317952597306322,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300841,Personal Loan,C,210,3,0.0,0.42245881227370385,NPL_WORKOUT|UNPROFITABLE|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300844,Home Improvement,D,360,3,0.0,0.273001918548735,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-300870,Small Business,B,240,3,0.0,0.12748530219002782,NPL_WORKOUT|UNPROFITABLE|PRICING_GAP|HIGH_DTI,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300883,Home Improvement,B,180,3,0.0,0.08190434503785231,NPL_WORKOUT|UNPROFITABLE,P1_URGENT,Move to workout/legal recovery and confirm Stage 3 provisioning; Review account: cut servicing cost or offer refinance
+LN-301168,Small Business,C,0,1,105598.82,0.4350088610675914,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300760,Small Business,A,0,1,90738.21,0.2863900952639332,UNPROFITABLE|PRICING_GAP|HIGH_DTI,P2_HIGH,Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300519,Small Business,C,0,1,50065.67,0.4876274957055541,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300246,Small Business,C,0,1,48684.93,0.40982978639469003,EARLY_WARNING,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD"
+LN-300469,Small Business,C,0,1,48580.16,0.4473445667216255,EARLY_WARNING|PRICING_GAP|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300690,Small Business,C,0,1,45411.96,0.4099154326713591,EARLY_WARNING,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD"
+LN-300931,Small Business,C,0,1,43986.64,0.4591325642134056,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300879,Small Business,E,0,1,41753.18,0.479056684753414,EARLY_WARNING|PRICING_GAP|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300068,Small Business,D,0,1,41698.01,0.40451124766584473,EARLY_WARNING,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD"
+LN-301016,Small Business,C,0,1,41009.11,0.46394890986185106,EARLY_WARNING|PRICING_GAP|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300728,Small Business,C,0,1,33638.54,0.4545999034748345,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300165,Small Business,C,0,1,31885.09,0.4782973262247772,EARLY_WARNING|PRICING_GAP|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300645,Small Business,C,0,1,30392.46,0.3821331965579668,UNPROFITABLE|PRICING_GAP|HIGH_DTI,P2_HIGH,Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300721,Small Business,D,0,1,23704.62,0.40011999996678554,EARLY_WARNING,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD"
+LN-300821,Home Improvement,C,0,1,22995.97,0.48723955451623935,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300420,Small Business,C,0,1,19797.87,0.48223192177279145,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300667,Home Improvement,E,0,1,17872.43,0.48248502263326143,EARLY_WARNING,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD"
+LN-300424,Small Business,C,0,1,16415.05,0.4513453087713815,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300997,Personal Loan,C,0,1,15788.91,0.4940038422899103,EARLY_WARNING|PRICING_GAP|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300812,Personal Loan,C,0,1,14841.58,0.48877731540104286,EARLY_WARNING|PRICING_GAP|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300366,Home Improvement,C,0,1,14394.98,0.45140525669961906,EARLY_WARNING|PRICING_GAP|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300386,Home Improvement,D,0,1,14107.09,0.43258628924116227,EARLY_WARNING,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD"
+LN-300896,Personal Loan,D,0,1,13527.27,0.2749903815336211,UNPROFITABLE|PRICING_GAP|HIGH_DTI,P2_HIGH,Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300532,Home Improvement,E,0,1,13335.37,0.4392190597402904,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300837,Personal Loan,D,0,1,13213.95,0.4921924808799685,EARLY_WARNING|PRICING_GAP|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300776,Home Improvement,E,0,1,11965.89,0.47287123907234974,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300959,Personal Loan,C,0,1,10673.49,0.4845529361432881,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300518,Personal Loan,D,0,1,10529.04,0.43995640160491056,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300554,Auto Loan,A,0,1,10067.06,0.03164705984309715,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-300915,Personal Loan,A,0,1,8756.9,0.07676691365209648,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-300302,Small Business,C,0,1,8656.12,0.4387047939843163,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300610,Auto Loan,A,0,1,8071.64,0.09361561990859753,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-300805,Home Improvement,E,0,1,7892.51,0.4764966692025794,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300824,Personal Loan,D,0,1,7634.21,0.45190113219355954,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300598,Personal Loan,C,0,1,7613.73,0.474665948030302,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300873,Home Improvement,D,0,1,7550.15,0.4738022698460293,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300602,Home Improvement,C,0,1,7311.65,0.4062405674234758,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300321,Personal Loan,D,0,1,6867.56,0.43853503294237783,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300300,Personal Loan,C,0,1,6272.52,0.418385925077991,EARLY_WARNING|PRICING_GAP|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300880,Personal Loan,D,0,1,5970.68,0.44423126630106036,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300813,Home Improvement,C,0,1,5738.61,0.17767632933017527,UNPROFITABLE|HIGH_DTI,P2_HIGH,Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300237,Auto Loan,E,0,1,5635.09,0.4250424414853285,EARLY_WARNING,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD"
+LN-300239,Small Business,C,0,1,5476.31,0.43971424717250895,EARLY_WARNING|PRICING_GAP|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300648,Home Improvement,D,0,1,5461.99,0.4596856770935976,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300291,Personal Loan,C,0,1,4811.63,0.44280303182524894,EARLY_WARNING|PRICING_GAP|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300301,Home Improvement,E,0,1,4665.58,0.47655266722096634,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300406,Personal Loan,D,0,1,4409.73,0.4090989588444807,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300280,Small Business,C,0,1,4327.31,0.41322974931435,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300310,Personal Loan,D,0,1,4011.84,0.49855508721695646,EARLY_WARNING,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD"
+LN-300688,Personal Loan,D,0,1,3745.07,0.411155838190788,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300860,Personal Loan,A,0,1,3373.11,0.2878470930479994,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-300558,Auto Loan,A,0,1,3348.01,0.08397812306946591,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-300029,Personal Loan,D,0,1,3036.08,0.49343639448944543,EARLY_WARNING|PRICING_GAP|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300689,Personal Loan,A,0,1,2943.01,0.1482527190723115,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-300762,Personal Loan,B,0,1,2721.78,0.18877091919672961,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-300553,Personal Loan,C,0,1,2646.04,0.4901574797201795,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300218,Personal Loan,D,0,1,2593.14,0.5050621034509892,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300676,Personal Loan,B,0,1,2536.27,0.2522966261382804,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-300735,Personal Loan,A,0,1,2442.67,0.0831147781364299,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-300308,Personal Loan,D,0,1,2146.23,0.417744276972555,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300225,Personal Loan,A,0,1,2084.73,0.14110065577418177,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-300253,Auto Loan,D,0,1,1889.03,0.43911248878388853,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300299,Personal Loan,D,0,1,1719.59,0.4510938756321604,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300309,Personal Loan,A,0,1,1009.3,0.14047584423543133,UNPROFITABLE|PRICING_GAP,P2_HIGH,Review account: cut servicing cost or offer refinance; Reprice or tighten approval for this product/grade
+LN-300201,Auto Loan,A,0,1,532.43,0.03193866350728975,UNPROFITABLE|HIGH_DTI,P2_HIGH,Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300524,Personal Loan,D,0,1,441.42,0.4851370959896348,EARLY_WARNING,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD"
+LN-300004,Personal Loan,A,0,1,0.0,0.23778151981445966,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-300018,Personal Loan,D,0,1,0.0,0.40435969626468204,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300037,Home Improvement,C,0,1,0.0,0.45600790385968293,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300039,Home Improvement,A,0,1,0.0,0.19848370771813217,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-300042,Personal Loan,C,0,1,0.0,0.4029470067016366,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300063,Home Improvement,D,0,1,0.0,0.4828546395848364,EARLY_WARNING|PRICING_GAP|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending"
+LN-300072,Personal Loan,A,0,1,0.0,0.1305599555671193,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-300086,Home Improvement,D,0,1,0.0,0.4059530368599476,EARLY_WARNING,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD"
+LN-300095,Personal Loan,D,0,1,0.0,0.41582344372476604,EARLY_WARNING,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD"
+LN-300105,Personal Loan,E,0,1,0.0,0.44746815049950966,EARLY_WARNING|PRICING_GAP,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Reprice or tighten approval for this product/grade"
+LN-300158,Personal Loan,E,0,1,0.0,0.4901675374194897,EARLY_WARNING|PRICING_GAP,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Reprice or tighten approval for this product/grade"
+LN-300172,Personal Loan,D,0,1,0.0,0.3982424409482315,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300186,Personal Loan,C,0,1,0.0,0.43989514372456073,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300236,Home Improvement,D,0,1,0.0,0.44680888370453686,EARLY_WARNING|HIGH_DTI,P2_HIGH,"Proactive outreach: reminder, payment holiday or restructure before it rolls to 30+ DPD; Cap post-loan DTI at policy limit for new lending"
+LN-300599,Auto Loan,A,0,1,0.0,0.01790880060970622,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-300622,Auto Loan,A,0,1,0.0,0.06991418435650221,UNPROFITABLE|HIGH_DTI,P2_HIGH,Review account: cut servicing cost or offer refinance; Cap post-loan DTI at policy limit for new lending
+LN-300720,Personal Loan,A,0,1,0.0,0.06616183340067706,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-300893,Home Improvement,A,0,1,0.0,0.18022404093793354,UNPROFITABLE,P2_HIGH,Review account: cut servicing cost or offer refinance
+LN-301110,Small Business,A,0,1,90683.48,0.04830217814122075,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300892,Small Business,A,0,1,90509.41,0.0575622280553116,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300428,Small Business,A,0,1,86478.49,0.1157408695616163,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300725,Small Business,B,0,1,86442.71,0.25873984062685007,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300739,Small Business,C,0,1,85568.46,0.3292498814775749,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300990,Small Business,B,0,1,84844.85,0.324168716279809,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301088,Small Business,D,0,1,76802.59,0.2742611905029165,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-301098,Small Business,D,0,1,69937.5,0.27215565057228636,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300681,Small Business,A,0,1,69519.99,0.10625622924626817,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301004,Small Business,B,0,1,69312.88,0.08697348427829614,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300933,Small Business,C,0,1,65944.26,0.3559012141825051,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300392,Small Business,B,0,1,60850.78,0.2161119810786513,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300863,Small Business,B,0,1,60811.2,0.35600342670234864,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300855,Small Business,B,0,1,58895.17,0.2338040673279488,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-301096,Small Business,A,0,1,58820.9,0.18859874600806836,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-301170,Small Business,A,0,1,58322.69,0.07943406452125286,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301097,Small Business,B,0,1,57834.01,0.1545514464306086,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301054,Small Business,D,0,1,56870.83,0.28974354804295105,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300543,Small Business,B,0,1,50900.02,0.13047735708411756,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301055,Small Business,B,0,1,47550.13,0.11646701846939578,PRICING_GAP,P3_MEDIUM,Reprice or tighten approval for this product/grade
+LN-300934,Auto Loan,B,0,1,45451.66,0.06106783863336028,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301039,Small Business,A,0,1,42156.19,0.16049295073285721,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300416,Small Business,B,0,1,41376.87,0.24694060930887765,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-301105,Small Business,C,0,1,41175.24,0.21099267861108745,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300661,Small Business,C,0,1,39079.23,0.3788285514530959,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301033,Small Business,D,0,1,37504.41,0.3367952510364649,PRICING_GAP,P3_MEDIUM,Reprice or tighten approval for this product/grade
+LN-301172,Home Improvement,A,0,1,37286.56,0.01042675715810549,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301138,Small Business,C,0,1,35410.6,0.30255058790151385,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300801,Home Improvement,D,0,1,35003.16,0.3174110637935932,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300626,Small Business,A,0,1,34853.66,0.07520069888612231,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300394,Small Business,A,0,1,34754.86,0.2569740390256027,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300226,Small Business,B,0,1,31975.16,0.16887734080118902,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301045,Home Improvement,B,0,1,31949.09,0.027685699570465048,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300426,Home Improvement,B,0,1,30743.79,0.14298265538460905,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300664,Home Improvement,D,0,1,30604.64,0.3610189535663263,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300851,Small Business,B,0,1,30117.69,0.08623418501850696,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300589,Small Business,C,0,1,30112.79,0.3675299008291807,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300953,Home Improvement,D,0,1,29319.05,0.23972244459608183,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300408,Small Business,C,0,1,29207.77,0.3858902191907364,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300839,Auto Loan,D,0,1,29120.79,0.3660180422692865,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301032,Small Business,A,0,1,29066.55,0.06458260881482597,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300935,Auto Loan,E,0,1,28285.98,0.3358200305470793,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300970,Personal Loan,D,0,1,28194.2,0.1817940353977267,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300670,Auto Loan,C,0,1,27884.09,0.12910585021040882,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300952,Auto Loan,C,0,1,27410.76,0.1529037191998579,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301062,Home Improvement,C,0,1,27063.44,0.26074484916427954,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-301164,Auto Loan,B,0,1,26993.79,0.036172223728165705,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300511,Auto Loan,B,0,1,26649.01,0.05629328240013682,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300930,Auto Loan,C,0,1,26420.57,0.20706344815274239,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301095,Auto Loan,C,0,1,24813.41,0.10184508614718293,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300998,Auto Loan,B,0,1,24729.76,0.014597709415051995,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301014,Auto Loan,D,0,1,24701.96,0.24649285529654164,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300595,Auto Loan,D,0,1,24591.64,0.2924518065622276,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300233,Small Business,C,0,1,24177.52,0.3477308177547872,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301101,Home Improvement,D,0,1,23896.64,0.10548280746303675,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301171,Home Improvement,C,0,1,23859.26,0.11243918981323457,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300916,Auto Loan,A,0,1,23421.5,0.00786640317086894,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301058,Home Improvement,D,0,1,23408.87,0.15448627864367284,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301147,Personal Loan,C,0,1,23043.68,0.16331093845921887,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300456,Auto Loan,B,0,1,22754.91,0.14403382869326115,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301116,Personal Loan,D,0,1,22205.63,0.09768903631783425,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300980,Personal Loan,D,0,1,21642.32,0.25604395555494275,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300142,Small Business,A,0,1,21513.71,0.07966558539566022,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300295,Auto Loan,C,0,1,21346.18,0.1737515326467822,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300899,Auto Loan,D,0,1,21014.86,0.2844360018364705,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301077,Personal Loan,E,0,1,20843.77,0.28750450651851045,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300579,Small Business,B,0,1,20765.82,0.2730298397736729,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300677,Auto Loan,A,0,1,20112.06,0.0678627723421001,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301121,Auto Loan,C,0,1,19923.79,0.10651229738898019,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301176,Auto Loan,C,0,1,19902.31,0.1286514799135565,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301089,Home Improvement,E,0,1,19662.36,0.20221543730039,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300746,Auto Loan,D,0,1,19565.51,0.23236163519190983,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300765,Auto Loan,C,0,1,19404.77,0.19986279605596605,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300912,Home Improvement,C,0,1,19349.4,0.14654548303015952,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301179,Home Improvement,D,0,1,18504.6,0.11281457493359551,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300751,Personal Loan,A,0,1,18475.64,0.02566392811797951,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300866,Auto Loan,C,0,1,18312.31,0.15920428658097496,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300473,Auto Loan,B,0,1,18205.09,0.0761571996107369,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300907,Auto Loan,E,0,1,18171.63,0.37467209935788454,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301034,Auto Loan,C,0,1,18168.78,0.08413176783514037,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301184,Home Improvement,C,0,1,17973.63,0.14577363848951475,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301028,Auto Loan,D,0,1,17636.24,0.2938462418318057,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300895,Personal Loan,C,0,1,17342.32,0.37092403856020184,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300928,Home Improvement,D,0,1,17285.53,0.3748868219588972,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300961,Small Business,D,0,1,17272.52,0.36125765848633934,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300319,Home Improvement,C,0,1,17070.07,0.37039543875290915,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300639,Auto Loan,A,0,1,17041.23,0.02833382530606862,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301093,Personal Loan,A,0,1,17010.66,0.03387934129873803,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300030,Small Business,C,0,1,16985.67,0.38498021079464584,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301188,Auto Loan,D,0,1,16978.17,0.11509695842281936,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300703,Home Improvement,C,0,1,16671.77,0.24490422373900225,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300514,Small Business,B,0,1,16363.27,0.17192639909283497,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-301006,Auto Loan,C,0,1,16330.96,0.07132691931070456,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300457,Home Improvement,C,0,1,16289.57,0.27312313149811074,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300540,Auto Loan,C,0,1,15643.31,0.19779826554465835,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301013,Auto Loan,D,0,1,15579.41,0.2070833373380322,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300942,Auto Loan,D,0,1,15453.19,0.1496775580251131,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300749,Auto Loan,A,0,1,14998.42,0.06591173844380532,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300988,Personal Loan,C,0,1,14976.82,0.20238515246597558,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301153,Personal Loan,C,0,1,14904.14,0.307686634846059,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300173,Home Improvement,B,0,1,14861.36,0.054751541005301614,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300945,Home Improvement,B,0,1,14843.3,0.08984324663157287,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300644,Auto Loan,B,0,1,14799.04,0.031232526105254853,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300402,Home Improvement,D,0,1,14550.49,0.32036055362880894,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300874,Auto Loan,B,0,1,14421.84,0.08582104288118969,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300507,Auto Loan,D,0,1,14408.09,0.32041435198671053,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300422,Small Business,B,0,1,14331.56,0.1348704087434647,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300523,Personal Loan,D,0,1,14242.26,0.37118059712544027,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301141,Auto Loan,B,0,1,14171.2,0.03112097148330561,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300750,Home Improvement,C,0,1,13996.03,0.2310949980635182,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301127,Personal Loan,D,0,1,13958.25,0.1855700660565352,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300834,Home Improvement,C,0,1,13901.2,0.25338994566055906,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300384,Auto Loan,A,0,1,13848.5,0.0703847188439313,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300698,Auto Loan,A,0,1,13835.29,0.04018743434630913,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300527,Home Improvement,B,0,1,13757.69,0.06910193571074463,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301020,Home Improvement,E,0,1,13733.45,0.3226248679192696,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300504,Auto Loan,B,0,1,13671.39,0.0607757825894681,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300666,Home Improvement,B,0,1,13573.13,0.055139738656339324,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300823,Auto Loan,C,0,1,13428.23,0.22760626771954082,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301043,Personal Loan,C,0,1,13373.82,0.24091780978665883,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300985,Personal Loan,B,0,1,13086.86,0.1404683178457224,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300783,Auto Loan,B,0,1,12949.49,0.06234485392204209,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300352,Auto Loan,C,0,1,12927.88,0.22966737089365924,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301064,Auto Loan,B,0,1,12924.59,0.02156077059581435,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301073,Auto Loan,C,0,1,12769.81,0.16018572151941177,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300358,Small Business,B,0,1,12751.29,0.26757077724708983,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300466,Auto Loan,D,0,1,12530.99,0.2287493863697183,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300652,Small Business,B,0,1,12509.57,0.1035044644679953,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300578,Auto Loan,E,0,1,12491.25,0.3108176084520908,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300829,Home Improvement,C,0,1,12344.49,0.25084506116157645,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300753,Auto Loan,C,0,1,12108.74,0.1527082330385194,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301044,Personal Loan,D,0,1,12069.72,0.27585584993207357,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300604,Auto Loan,B,0,1,12069.52,0.048811543195202374,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301080,Personal Loan,A,0,1,12026.38,0.10095010816548404,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301129,Personal Loan,D,0,1,12006.97,0.16947316655644037,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-301189,Auto Loan,D,0,1,11833.1,0.14008897823449348,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300647,Home Improvement,D,0,1,11796.49,0.2835010570129853,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300808,Auto Loan,D,0,1,11654.4,0.363616023072005,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300637,Auto Loan,C,0,1,11645.89,0.17172159973493642,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301037,Home Improvement,C,0,1,11547.18,0.21170393877956475,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300409,Home Improvement,D,0,1,11437.44,0.30962192343761885,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301021,Home Improvement,D,0,1,11301.24,0.2736340388953275,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300814,Auto Loan,E,0,1,11053.5,0.37392310479077734,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300641,Personal Loan,B,0,1,10808.55,0.0349239784070089,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300635,Auto Loan,C,0,1,10808.17,0.14958999503235418,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300843,Personal Loan,B,0,1,10688.59,0.07169225888472332,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301027,Personal Loan,D,0,1,10523.21,0.12357514691202973,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301181,Personal Loan,D,0,1,10500.3,0.18758936748275987,PRICING_GAP,P3_MEDIUM,Reprice or tighten approval for this product/grade
+LN-300968,Home Improvement,A,0,1,10444.51,0.049018446242316584,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300381,Auto Loan,D,0,1,9914.87,0.36710543556622593,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300266,Personal Loan,E,0,1,9584.42,0.20759758871585682,PRICING_GAP,P3_MEDIUM,Reprice or tighten approval for this product/grade
+LN-300476,Home Improvement,D,0,1,9453.59,0.23728070206536864,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301150,Personal Loan,D,0,1,9309.23,0.24109812318897955,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300617,Personal Loan,B,0,1,8992.02,0.054641194714579365,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300249,Personal Loan,A,0,1,8783.1,0.03744755884057382,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300094,Auto Loan,B,0,1,8780.13,0.11869947355089562,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300806,Personal Loan,B,0,1,8615.11,0.049146307704633165,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300365,Auto Loan,C,0,1,8510.82,0.2679383272961667,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300525,Home Improvement,B,0,1,8430.09,0.03886049770283357,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300583,Auto Loan,D,0,1,8194.47,0.3066784650572287,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300516,Home Improvement,B,0,1,8168.9,0.11555666420486622,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300696,Auto Loan,C,0,1,7957.8,0.30530037534364113,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300713,Home Improvement,C,0,1,7951.94,0.23043669487391616,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300101,Personal Loan,D,0,1,7705.34,0.25185796079228456,PRICING_GAP,P3_MEDIUM,Reprice or tighten approval for this product/grade
+LN-300614,Personal Loan,B,0,1,7683.54,0.09675800825016628,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300517,Home Improvement,C,0,1,7393.58,0.3774125855859246,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300133,Auto Loan,C,0,1,7355.11,0.3293267365486719,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300323,Personal Loan,C,0,1,7106.7,0.33174684818436617,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300333,Personal Loan,E,0,1,7042.06,0.3139603806054188,PRICING_GAP,P3_MEDIUM,Reprice or tighten approval for this product/grade
+LN-301036,Personal Loan,D,0,1,6991.62,0.27983183125597316,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300214,Personal Loan,A,0,1,6958.39,0.04177051394562638,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300220,Auto Loan,D,0,1,6872.16,0.2955998408752277,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300340,Personal Loan,D,0,1,6460.25,0.36605331791235496,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300335,Auto Loan,E,0,1,6185.22,0.37539931998327625,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301191,Personal Loan,D,0,1,6068.93,0.2978396834553216,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300804,Auto Loan,D,0,1,5770.05,0.36203801592317025,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300764,Personal Loan,C,0,1,5502.83,0.2922438787732483,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300185,Auto Loan,D,0,1,4888.59,0.2193116560909405,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300415,Auto Loan,C,0,1,4878.06,0.1863019978958777,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300937,Personal Loan,D,0,1,4875.59,0.17945747376635682,PRICING_GAP,P3_MEDIUM,Reprice or tighten approval for this product/grade
+LN-300276,Auto Loan,E,0,1,4825.18,0.3360119849257222,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300802,Personal Loan,A,0,1,4805.21,0.06335682187075144,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300792,Personal Loan,A,0,1,4553.66,0.03106792230431501,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300179,Personal Loan,A,0,1,4445.24,0.15811633427775845,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300675,Personal Loan,B,0,1,4375.51,0.13620797766056533,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300383,Personal Loan,A,0,1,4249.86,0.0528360382791129,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300708,Personal Loan,A,0,1,4233.38,0.11102890076593197,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300387,Personal Loan,B,0,1,3959.94,0.11298307640200453,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300322,Auto Loan,C,0,1,3885.37,0.3476022292925494,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300497,Auto Loan,D,0,1,3814.81,0.3480107946786381,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300438,Personal Loan,C,0,1,3599.28,0.39414928318762393,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300163,Personal Loan,D,0,1,3464.33,0.34895612075157206,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300370,Personal Loan,D,0,1,3244.66,0.3038419371067562,PRICING_GAP,P3_MEDIUM,Reprice or tighten approval for this product/grade
+LN-300786,Personal Loan,D,0,1,2972.87,0.3695127047605028,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300219,Small Business,A,0,1,2958.31,0.11724147793698948,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300212,Home Improvement,C,0,1,2466.56,0.2901131322633963,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300565,Personal Loan,B,0,1,2337.59,0.1652840372095177,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300286,Home Improvement,B,0,1,2064.47,0.13924588922741526,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300380,Auto Loan,B,0,1,2020.98,0.04571278312368742,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300625,Personal Loan,B,0,1,1996.75,0.09067756951960682,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300191,Small Business,B,0,1,1776.18,0.3848458542142438,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300210,Personal Loan,A,0,1,1366.64,0.049794296056270504,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300551,Personal Loan,B,0,1,1069.72,0.1664755270263943,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300010,Auto Loan,B,0,1,0.0,0.17497909383967936,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300020,Auto Loan,B,0,1,0.0,0.1740953261678906,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300021,Small Business,B,0,1,0.0,0.33218389636560786,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300028,Small Business,B,0,1,0.0,0.08762139995303792,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300036,Personal Loan,D,0,1,0.0,0.388690800806508,PRICING_GAP,P3_MEDIUM,Reprice or tighten approval for this product/grade
+LN-300040,Auto Loan,B,0,1,0.0,0.1424720074523135,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300047,Personal Loan,B,0,1,0.0,0.10065650697576477,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300059,Small Business,B,0,1,0.0,0.15527505380687795,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300064,Auto Loan,C,0,1,0.0,0.18161868134634512,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300071,Home Improvement,C,0,1,0.0,0.31472109106125395,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300074,Auto Loan,D,0,1,0.0,0.20977971643587073,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300085,Small Business,B,0,1,0.0,0.1678148688283809,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300091,Home Improvement,C,0,1,0.0,0.34395699283019787,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300103,Personal Loan,B,0,1,0.0,0.11928729296101655,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300104,Small Business,B,0,1,0.0,0.1957641166776874,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300106,Personal Loan,A,0,1,0.0,0.08806509245117762,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300110,Personal Loan,A,0,1,0.0,0.09913217042322454,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300118,Auto Loan,A,0,1,0.0,0.06308998759963956,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300123,Auto Loan,D,0,1,0.0,0.3206533546402237,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300126,Auto Loan,C,0,1,0.0,0.25969270192624516,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300138,Home Improvement,C,0,1,0.0,0.23162081313902472,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300140,Auto Loan,B,0,1,0.0,0.1208472854422752,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300141,Personal Loan,C,0,1,0.0,0.36318487418639184,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300148,Auto Loan,D,0,1,0.0,0.390735446548002,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300150,Small Business,B,0,1,0.0,0.1035119464318708,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300152,Small Business,B,0,1,0.0,0.24569685020141674,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300160,Auto Loan,D,0,1,0.0,0.31218952128383154,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300168,Personal Loan,B,0,1,0.0,0.10432972388977763,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300187,Auto Loan,C,0,1,0.0,0.2176230533939725,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300211,Personal Loan,B,0,1,0.0,0.11316792199559944,PRICING_GAP|HIGH_DTI,P3_MEDIUM,Reprice or tighten approval for this product/grade; Cap post-loan DTI at policy limit for new lending
+LN-300250,Auto Loan,D,0,1,0.0,0.23059861316802568,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300354,Personal Loan,A,0,1,0.0,0.09392122580117167,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300395,Auto Loan,C,0,1,0.0,0.14664559131910407,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300439,Small Business,A,0,1,0.0,0.08315207460299841,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300453,Small Business,A,0,1,0.0,0.045034803392016216,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300513,Small Business,D,0,1,0.0,0.3534196312781389,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300537,Small Business,A,0,1,0.0,0.09042078229855588,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300556,Personal Loan,B,0,1,0.0,0.012024152079604378,PRICING_GAP,P3_MEDIUM,Reprice or tighten approval for this product/grade
+LN-300571,Auto Loan,D,0,1,0.0,0.29914385316200987,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300576,Small Business,B,0,1,0.0,0.32614461514561244,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300613,Home Improvement,B,0,1,0.0,0.04226517487385133,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300685,Small Business,A,0,1,0.0,0.20215579584462048,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300700,Auto Loan,B,0,1,0.0,0.031037479911956736,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300789,Auto Loan,D,0,1,0.0,0.3218030707368195,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300849,Auto Loan,B,0,1,0.0,0.023600259092068022,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-300913,Personal Loan,D,0,1,0.0,0.3898261355658019,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301019,Auto Loan,A,0,1,0.0,0.009728429413687201,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending
+LN-301134,Home Improvement,D,0,1,0.0,0.11213583890702854,HIGH_DTI,P3_MEDIUM,Cap post-loan DTI at policy limit for new lending

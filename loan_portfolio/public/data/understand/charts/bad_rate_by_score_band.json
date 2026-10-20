@@ -1,0 +1,1 @@
+{"id": "bad_rate_by_score_band", "title": "Bad rate by credit score band", "type": "bar", "x_label": "Band", "y_label": "Rate %", "outcome": "DECIDE", "data": [{"label": "Excellent 740+", "value": 0.7194}, {"label": "Fair 580-619", "value": 6.0}, {"label": "Good 620-679", "value": 8.3582}, {"label": "Poor <580", "value": 20.0}, {"label": "Very Good 680-739", "value": 4.0254}]}

@@ -1,0 +1,34 @@
+{
+  "eda_01_bad_rate_by_grade.png": [
+    "Which risk grades actually go 90+ DPD?",
+    "UNDERSTAND"
+  ],
+  "eda_02_credit_score_by_outcome.png": [
+    "Where does credit score separate good from bad loans?",
+    "UNDERSTAND"
+  ],
+  "eda_03_correlation_heatmap.png": [
+    "Which borrower/loan drivers move with delinquency and profit?",
+    "DECIDE"
+  ],
+  "eda_04_product_channel_bad_rate.png": [
+    "Which product and channel mixes should we tighten or grow?",
+    "DECIDE"
+  ],
+  "eda_05_composite_risk_by_outcome.png": [
+    "Does our composite risk score rank-order bad loans?",
+    "DECIDE"
+  ],
+  "eda_06_score_vs_dti.png": [
+    "Where do score and DTI combine into the danger zone?",
+    "DECIDE"
+  ],
+  "eda_07_grade_product_heatmap.png": [
+    "Which grade x product cells are the real problem?",
+    "DECIDE"
+  ],
+  "eda_08_vintage_bad_rate.png": [
+    "Is origination quality getting better or worse over time?",
+    "MONITOR"
+  ]
+}
